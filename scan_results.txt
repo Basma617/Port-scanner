@@ -1,0 +1,146 @@
+
+===== NEW SCAN =====
+Target: 10.204.60.81
+Time: Sat Apr  4 16:30:39 2026
+
+
+===== NEW SCAN =====
+Target: 10.204.60.81
+Time: Sat Apr  4 16:45:58 2026
+
+
+===== NEW SCAN =====
+Target: 10.204.60.81
+Time: Sat Apr  4 17:08:04 2026
+
+135/tcp OPEN -> epmap
+8080/tcp OPEN -> http-alt
+8009/tcp OPEN -> ajp13
+445/tcp OPEN -> microsoft-ds
+139/tcp OPEN -> netbios-ssn
+3306/tcp OPEN -> mysql
+
+===== NEW SCAN =====
+Target: 10.204.60.81
+Time: Sat Apr  4 18:28:38 2026
+
+
+===== NEW SCAN =====
+Target: 192.168.67.234
+Time: Sat Apr  4 18:36:52 2026
+
+135/tcp    open  epmap
+135/tcp    open  epmap
+445/tcp    open  microsoft-ds
+445/tcp    open  microsoft-ds
+3306/tcp   open  mysql
+3306/tcp   open  mysql
+
+===== NEW SCAN =====
+Target: 192.168.67.234
+Time: Sat Apr  4 18:48:00 2026
+
+135/tcp    open  epmap
+135/tcp    open  epmap
+8009/tcp   open  ajp13
+8009/tcp   open  ajp13
+
+===== NEW SCAN =====
+Target: 192.168.67.234
+Time: Sat Apr  4 18:56:13 2026
+
+135/tcp    open  epmap
+445/tcp    open  microsoft-ds
+
+===== NEW SCAN =====
+Target: 192.168.67.234
+Time: Sat Apr  4 19:02:24 2026
+
+135/tcp    open  msrpc
+445/tcp    open  microsoft-ds
+8009/tcp   open  ajp13
+
+===== NEW SCAN =====
+Target: 192.168.67.234
+Time: Sat Apr  4 19:13:17 2026
+
+135/tcp    open  msrpc
+445/tcp    open  microsoft-ds
+
+===== NEW SCAN =====
+Target: 192.168.67.234
+Time: Sat Apr  4 19:17:46 2026
+
+135/tcp    open  msrpc
+139/tcp    open  netbios-ssn
+
+===== NEW SCAN =====
+Target: 192.168.67.234
+Time: Sat Apr  4 19:22:08 2026
+
+135/tcp    open  msrpc
+139/tcp    open  netbios-ssn
+
+===== NEW SCAN =====
+Target: 192.168.67.234
+Time: Sat Apr  4 19:22:56 2026
+
+135/tcp    open  msrpc
+139/tcp    open  netbios-ssn
+
+===== NEW SCAN =====
+Target: 192.168.67.234
+
+===== NEW SCAN =====
+Target: 192.168.67.234
+
+===== NEW SCAN =====
+Target: 192.168.67.234
+
+===== NEW SCAN =====
+Target: 192.168.67.234
+
+===== NEW SCAN =====
+Target: 192.168.67.234
+135/tcp    open  msrpc
+135/tcp    open  msrpc
+139/tcp    open  netbios-ssn
+
+===== NEW SCAN =====
+Target: 192.168.67.234
+135/tcp    open  msrpc
+139/tcp    open  netbios-ssn
+
+===== NEW SCAN =====
+Target: 192.168.1.16
+135/tcp    open  msrpc
+139/tcp    open  netbios-ssn
+
+===== NEW SCAN =====
+Target: 192.168.1.16
+135/tcp    open  msrpc
+139/tcp    open  netbios-ssn
+445/tcp    open  microsoft-ds
+3306/tcp   open  mysql
+8009/tcp   open  ajp13
+8080/tcp   open  http-alt
+
+
+
+
+
+===== NEW SCAN =====
+Target:  192.168.1.16
+
+===== NEW SCAN =====
+Target: 192.168.67.234
+135/tcp    open  msrpc
+139/tcp    open  netbios-ssn
+445/tcp    open  microsoft-ds
+
+===== NEW SCAN =====
+Target: 192.168.67.234
+135/tcp    open  msrpc
+139/tcp    open  netbios-ssn
+445/tcp    open  microsoft-ds
+3306/tcp   open  mysql
